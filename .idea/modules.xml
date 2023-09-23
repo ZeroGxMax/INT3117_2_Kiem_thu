@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/INT3117_2_Kiem_thu.iml" filepath="$PROJECT_DIR$/.idea/INT3117_2_Kiem_thu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_3_Blackbox/Week_3_Blackbox.iml" filepath="$PROJECT_DIR$/Week_3_Blackbox/Week_3_Blackbox.iml" />
+    </modules>
+  </component>
+</project>
